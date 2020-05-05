@@ -1,1 +1,1 @@
-# Solutions of questions on CodecChef.
+# Solutions of questions on CodeChef.
