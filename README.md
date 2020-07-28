@@ -4,7 +4,7 @@
 * Codechef
 * Facebook Hacker Cup
 * Hackerearth
-* Hackerank
+* Hackerrank
 * Interviewbit
 * Leetcode
 * SPOJ
