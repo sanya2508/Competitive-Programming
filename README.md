@@ -1,2 +1,11 @@
-# Solution
-## Implementation of algorithms and data structures from various programming portals.
+
+## Questions solved from various competitive programming websites.
+
+* Codechef
+* Facebook Hacker Cup
+* Hackerearth
+* Hackerank
+* Interviewbit
+* Leetcode
+* SPOJ
+
