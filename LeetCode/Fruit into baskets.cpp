@@ -22,3 +22,4 @@ public:
 
 
 // reference: https://www.geeksforgeeks.org/longest-subarray-not-k-distinct-elements/
+// simialr to longest subarray with k distinct elements
