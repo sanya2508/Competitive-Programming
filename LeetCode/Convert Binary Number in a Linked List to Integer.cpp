@@ -9,6 +9,8 @@
  * };
  */
 
+// Approach 1
+
 #include<bits/stdc++.h>
 class Solution {
 public:
@@ -37,5 +39,21 @@ public:
         i++;
     }
     return ans;
+    }
+};
+
+
+// Approach 2
+class Solution {
+public:
+    int getDecimalValue(ListNode* head){
+        if(head==NULL) return 0;
+        int ans=0;
+        while(head){
+            if(head->val==0)ans=ans*2;
+            else ans=ans*2+1;
+            head=head->next;
+        }
+        return ans;
     }
 };
